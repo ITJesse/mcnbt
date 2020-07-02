@@ -1,6 +1,6 @@
 {
   "name": "mcnbt",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Yet another Minecraft NBT format file / buffer parser for Node.js.",
   "main": "nbt.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/XadillaX/mcnbt",
   "dependencies": {
-    "bignum": "^0.13.0"
+    "bignum": "^0.13.1"
   },
   "devDependencies": {
     "coveralls": "^3.0.6",
